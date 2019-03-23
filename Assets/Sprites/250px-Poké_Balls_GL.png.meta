@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 413c18a55ab11413eb8a818afe00b416
+timeCreated: 1509077016
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "250px-Poke\u0301_Balls_GL_0"
+    21300002: "250px-Poke\u0301_Balls_GL_1"
+    21300004: "250px-Poke\u0301_Balls_GL_2"
+    21300006: "250px-Poke\u0301_Balls_GL_3"
+    21300008: "250px-Poke\u0301_Balls_GL_4"
+    21300010: "250px-Poke\u0301_Balls_GL_5"
+    21300012: "250px-Poke\u0301_Balls_GL_6"
+    21300014: "250px-Poke\u0301_Balls_GL_7"
+    21300016: "250px-Poke\u0301_Balls_GL_8"
+    21300018: "250px-Poke\u0301_Balls_GL_9"
+    21300020: "250px-Poke\u0301_Balls_GL_10"
+    21300022: "250px-Poke\u0301_Balls_GL_11"
+    21300024: "250px-Poke\u0301_Balls_GL_12"
+    21300026: "250px-Poke\u0301_Balls_GL_13"
+    21300028: "250px-Poke\u0301_Balls_GL_14"
+    21300030: "250px-Poke\u0301_Balls_GL_15"
+    21300032: "250px-Poke\u0301_Balls_GL_16"
+    21300034: "250px-Poke\u0301_Balls_GL_17"
+    21300036: "250px-Poke\u0301_Balls_GL_18"
+    21300038: "250px-Poke\u0301_Balls_GL_19"
+    21300040: "250px-Poke\u0301_Balls_GL_20"
+    21300042: "250px-Poke\u0301_Balls_GL_21"
+    21300044: "250px-Poke\u0301_Balls_GL_22"
+    21300046: "250px-Poke\u0301_Balls_GL_23"
+    21300048: "250px-Poke\u0301_Balls_GL_24"
+    21300050: "250px-Poke\u0301_Balls_GL_25"
+    21300052: "250px-Poke\u0301_Balls_GL_26"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_1"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 219
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_2"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 219
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_3"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 219
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_4"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 219
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_6"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 175
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_7"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 175
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_8"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 175
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_9"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 176
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_11"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 132
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_12"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 131
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_13"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 131
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_14"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 131
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_16"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 87
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_17"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 88
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_18"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 87
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_19"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 87
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_21"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 43
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_22"
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 43
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_23"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 43
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_24"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 43
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_25"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "250px-Poke\u0301_Balls_GL_26"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
